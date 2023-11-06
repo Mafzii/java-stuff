@@ -1,5 +1,5 @@
 # java-oops
-#Topics include:
+Topics include:
  - Encapsulation
  - Data Hiding
  - Inheritance
